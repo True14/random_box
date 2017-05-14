@@ -1,0 +1,41 @@
+.blue_box {
+  position: relative;
+  height: 500px;
+  /*background-color: blue;*/
+}
+
+.green_box {
+  position: absolute;
+  top: 12.5%;
+  left: 12.5%;
+  height: 75%;
+  /*background-color: green;*/
+  width: 75%;
+}
+
+.red_box {
+  position: absolute;
+  top: 12.5%;
+  left: 12.5%;
+  height: 75%;
+  /*background-color: red;*/
+  width: 75%;
+  text-align: center;
+}
+
+.blue_color {
+  background-color: blue;
+}
+
+.green_color {
+  background-color: green;
+}
+
+.red_box {
+  background-color: red;
+}
+
+button {
+  margin-top: 25%;
+
+}
